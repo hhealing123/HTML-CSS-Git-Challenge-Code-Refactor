@@ -12,7 +12,7 @@ This assignment is about refactoring codes for the Horiseon website. Refactoring
   * Example III: Changed div tag to footer tag which allowed better flow of the webpage adjustment. 
 * Added alt inside the img tag in case the img is broken or does not load.
 * Added linebreaks and altered padding size to get to the final result of the webpage look. 
-* Grouped classes in HTML that had same styles code in CSS.
+* Grouped classes in HTML that had same style codes in CSS.
   * Example: Changed the following classes: "benefit-lead", "benefit-brand", and "benefit-cost" to one class - "benefits-article" since the three classes shares the same styles.
 * Commented HTML and CSS to provide more context to why refactor was needed.
 
