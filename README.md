@@ -33,5 +33,6 @@ This assignment is about refactoring codes for the Horiseon website. Refactoring
 * https://github.com/tchapi/markdown-cheatsheet
 * https://medium.com/design-code-repository/html-elements-section-vs-div-vs-article-a8c34e6548cf#:~:text=The%20element%20represents%20a,tag%20for%20title.&text=In%20principle%2C%20content%20in%20the,be%20independently%20distributable%20or%20reusable
 * https://css-tricks.com/why-how-and-when-to-use-semantic-html-and-aria/
-* https://www.techtarget.com/searchapparchitecture/definition/refactoring#:~:text=Refactoring%20is%20the%20process%20of,altering%20the%20code's%20external%20behavior.
+* https://www.techtarget.com/searchapparchitecture/definition/refactoring#:~:text=Refactoring%20is%20the%20process%20of,altering%20the%20code's%20external%20behavior
+* https://www.youtube.com/watch?v=wrb7Gge9yoE
  
